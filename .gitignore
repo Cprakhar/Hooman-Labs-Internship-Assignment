@@ -1,2 +1,5 @@
+node_modules/
+.next/
+next-env.d.ts
 task-1.md
 task-2.md
