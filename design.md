@@ -21,7 +21,7 @@
 ## 3. Visualization Plan
 | Metric                   | Visualization (by filter)                                  |
 |-------------------------|------------------------------------------------------------|
-| Total Calls             | KPI card, time series chart (if filtered by date)          |
+| Total Calls             | KPI card                                                   |
 | Success Rate            | KPI card, pie chart (status breakdown)                     |
 | Average Call Duration   | KPI card, bar chart (by agent/type)                        |
 | Total Cost              | KPI card, line chart (over time)                           |
